@@ -1,0 +1,139 @@
+
+body {
+margin: 0 auto;
+width: 90%;
+background-image: url("background.png");
+background-repeat: repeat;
+background-position: right top;
+background-attachment: fixed;
+}
+div.main{
+background: #4d4d4d;
+color: black;
+}
+
+
+p {
+  color: white;
+}
+p a {
+  color: white;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+
+
+header {
+margin: 5px;
+color: white;
+text-align: left;
+}
+
+
+
+nav ul {
+list-style-type: none;
+margin: 0 auto;
+padding: 0;
+overflow: hidden;
+background-color: #0d0d0d;
+}
+nav li {
+float: left;
+}
+nav li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+nav li a:hover {
+background-color: #333333;
+}
+
+
+
+aside ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: #0d0d0d;
+}
+aside li a {
+display: block;
+color: white;
+padding: 8px 5px;
+text-decoration: none;
+}
+aside li a:hover {
+background-color: #333333;
+color: White;
+}
+aside {
+width: 20%;
+float: left;
+position: sticky;
+top: 0;
+word-break: break-all;
+}
+
+
+
+article {
+float: right;
+width: 78%;
+padding-top: 5px;
+padding-right: 5px;
+padding-bottom: 5px;
+}
+h2 a {
+color: white;
+text-decoration: none;
+}
+
+
+footer {
+clear: both;
+background-color: #0d0d0d;
+text-align: right;
+color: White;
+padding-right: 5px;
+}
+footer a {
+color: white;
+text-decoration: none;
+}
+
+
+div.post {
+border-style: solid;
+border-radius: 10px;
+border-color: #0d0d0d;
+padding: 5px;
+margin: 5px;
+}
+a.postL {
+color: white;
+text-decoration: none;
+}
+
+ul {
+color: white;
+}
+ul a {
+color: white;
+text-decoration: none;
+}
+
+img {
+  max-width: 500px;
+  height: auto;  
+}
