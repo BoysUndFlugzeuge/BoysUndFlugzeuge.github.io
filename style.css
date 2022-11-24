@@ -27,6 +27,9 @@ h2 {
 h3 {
   color: white;
 }
+h3 a {
+  color: #668cff;
+}
 
 
 header {
